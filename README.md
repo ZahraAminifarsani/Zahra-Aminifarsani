@@ -1,1 +1,3 @@
-# Zahra-Aminifarsani
+Hi there
+My name is Zahra Aminifarsani and I'm an interiem professor at the Department of Data Science, Institute of Statistics at LMU Munich. During summer semester 2022 I was interim professor for Bio-Statistics. I awarded my first  Ph.D. in Mathematical Statistics at Iran University of Science & Technology and my second Ph.D. at  LMU Munich. Since 2018 I have been assistant professor of Statistics at Lorestan University, which I am still affiliated with that.
+My interests cover a wide range of topics. Currently, the appropriate use of modern causal inference methods is a key aspect of my research: this includes practical considerations for the application of these methods to imperfect longitudinal observational databases, continuous interventions, computational angles when integrating machine learning algorithms into causal effect estimation, as well as some more foundational issues.
